@@ -1,0 +1,7 @@
+disnake
+sqlite3
+asyncio
+psutil
+pandas
+uvloop
+cachetools
